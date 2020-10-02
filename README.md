@@ -13,3 +13,5 @@ In this project I detected lane lines in images using Python and OpenCV.  OpenCV
 To complete the project, two files were submitted: a file containing [project code](TibrewalAnirudh_project_lanes.ipynb) and a file containing a brief [write up](writeup_AnirudhTibrewal.pdf) explaining my solution.
 
 To meet specifications in the project, specifications from the [project rubric](https://review.udacity.com/#!/rubrics/322/view) were fulfilled
+
+The output videos I obtained from the project are also available in the repository at (/test_videos_output/) 
