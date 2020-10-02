@@ -14,4 +14,4 @@ To complete the project, two files were submitted: a file containing [project co
 
 To meet specifications in the project, specifications from the [project rubric](https://review.udacity.com/#!/rubrics/322/view) were fulfilled
 
-The output videos I obtained from the project are also available in the repository at (/test_videos_output/) 
+The output videos I obtained from the project are also available in the repository at [/test_videos_output](/test_videos_output) folder.
